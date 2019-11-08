@@ -3,6 +3,6 @@ A docker based DNS resolver included adsblock
 
 
 ## TODO
-* Docker alphine
-* Knot-resolver
-* RPZ 
+* Docker from Debian sid slim
+* Knot-resolver 
+* auto download RPZ and restart docker
